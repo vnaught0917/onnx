@@ -1,0 +1,9 @@
+.controls{
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.controls button{
+	width: auto;
+	align-self: flex-start;
